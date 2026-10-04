@@ -46,6 +46,12 @@
 
 ---
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce6356c3-ea62-4b52-a0d2-fd4ad3d1582c" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/23cad04c-e6f8-4c06-b369-d8e0788d407f" />
+
+---
+
 ## 🛡 Отчеты безопасности (VirusTotal Logs)
 
 Для обеспечения прозрачности ниже приведены ссылки на проверки исполняемых файлов на VirusTotal:
