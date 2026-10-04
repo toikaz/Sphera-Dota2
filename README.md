@@ -39,8 +39,8 @@
 
 ## 📥 Загрузка (Downloads)
 
-* **Dropbox Mirror 1:** [Скачать архив](https://www.dropbox.com/scl/fi/czmrkm0blb04ckojw1i2j/sphera-cheat-v2-05.09.26.zip?rlkey=dvllo0jdr574c2axiexhwo1ku&st=qwfehtid&dl=0)
-* **Dropbox Mirror 2:** [Скачать архив (Резервная ссылка)](https://www.dropbox.com/scl/fi/czmrkm0blb04ckojw1i2j/sphera-cheat-v2-05.09.26.zip?rlkey=dvllo0jdr574c2axiexhwo1ku&st=qwfehtid&dl=1)
+* **Dropbox Mirror 1:** [Скачать архив](https://www.dropbox.com/scl/fi/roxrllq6g31cuvfrytc9a/sphera-cheat-v2-05.10.26.zip?rlkey=g2mrvvkxa6acy65mb74hzyz3y&st=c5lg71nl&dl=0)
+* **Dropbox Mirror 2:** [Скачать архив (Резервная ссылка)](https://www.dropbox.com/scl/fi/roxrllq6g31cuvfrytc9a/sphera-cheat-v2-05.10.26.zip?rlkey=g2mrvvkxa6acy65mb74hzyz3y&st=c5lg71nl&dl=1)
 
 🔐 **Код доступа:** `HDSUF-88888-JSDFU-8DFJD-22222`
 
